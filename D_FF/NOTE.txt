@@ -1,0 +1,3 @@
+Follow that in output wave form the output q follows input d only at rising clock instance of clock.
+So as it is an positive edge triggered flipflop so we only need to concern with the value of d and q at rising
+edge of clock and nothing else
