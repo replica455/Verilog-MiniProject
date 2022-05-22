@@ -1,0 +1,2 @@
+the if else ladder in the design code can be replaced with case statements. 
+I will implement JK flipflop using such statement to reduce writing.
